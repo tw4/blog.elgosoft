@@ -16,7 +16,7 @@ const App = ({ Component, pageProps }: AppProps) => {
     <ContentfulLivePreviewProvider
       enableInspectorMode={pageProps.previewActive}
       enableLiveUpdates={pageProps.previewActive}
-      locale={locale || 'en-US'}>
+      locale={locale || 'tr'}>
       <>
         <main className={`${urbanist.variable} font-sans`}>
           <Layout>

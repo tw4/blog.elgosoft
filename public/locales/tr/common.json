@@ -1,0 +1,24 @@
+{
+  "article": {
+    "relatedArticles": "İlgili makaleler",
+    "featured": "öne çıkan"
+  },
+  "landingPage": {
+    "latestArticles": "En son makaleler"
+  },
+  "common": {
+    "regionalSettings": "Bölgesel Ayarlar",
+    "homepage": "Ana Sayfa",
+    "language": "Dil",
+    "languageDrawer": "Dil çekmecesini aç/kapat"
+  },
+  "footer": {
+    "aboutUs": "hakkımızda",
+    "description": "Şirketimiz, çeşitli endüstriler için gelişmiş teknolojilerin geliştirilmesine odaklanmıştır. İşleri otomatikleştirmeye, verimliliği artırmaya ve yeniliği desteklemeye yardımcı olmak için son teknoloji teknikleri ve algoritmaları kullanıyoruz.",
+    "powerBy": "Tarafından desteklenmektedir"
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "description": "Bu sayfa mevcut gibi görünmüyor. Ana sayfaya dönmek için <0>buraya tıklayın</0>."
+  }
+}
